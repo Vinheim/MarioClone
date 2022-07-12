@@ -1,0 +1,4 @@
+<map id="GameManager" name="GameManager">
+<area shape="rect" id="node3" href="$class_you_win.html" title="{YouWin\n|+ pointsText\l+ victoryTune\l|+ Setup()\l+ RestartGame()\l}" alt="" coords="29,132,148,239"/>
+<area shape="rect" id="node4" href="$class_game_over_screen.html" title="{GameOverScreen\n|+ pointsText\l|+ Setup()\l+ RestartGame()\l}" alt="" coords="172,139,296,231"/>
+</map>

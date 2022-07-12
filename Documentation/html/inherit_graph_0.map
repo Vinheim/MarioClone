@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_audio_manager.html" title="AudioManager" alt="" coords="5,284,111,311"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html" title="CameraController" alt="" coords="181,5,303,32"/>
+<area shape="rect" id="node3" href="$class_enemy_1_1_enemy_movement.html" title="Enemy.EnemyMovement" alt="" coords="159,56,325,83"/>
+<area shape="rect" id="node4" href="$class_game_manager.html" title="GameManager" alt="" coords="189,107,295,133"/>
+<area shape="rect" id="node5" href="$class_game_over_screen.html" title="GameOverScreen" alt="" coords="180,157,304,184"/>
+<area shape="rect" id="node6" href="$class_hit_stomp.html" title="HitStomp" alt="" coords="204,208,280,235"/>
+<area shape="rect" id="node7" href="$class_lives_manager.html" title="LivesManager" alt="" coords="191,259,293,285"/>
+<area shape="rect" id="node8" href="$class_player_death.html" title="PlayerDeath" alt="" coords="195,309,289,336"/>
+<area shape="rect" id="node9" href="$class_player_movement.html" title="PlayerMovement" alt="" coords="183,360,301,387"/>
+<area shape="rect" id="node10" href="$class_restart.html" title="Restart" alt="" coords="210,411,274,437"/>
+<area shape="rect" id="node11" href="$class_score_manager.html" title="ScoreManager" alt="" coords="189,461,295,488"/>
+<area shape="rect" id="node12" href="$class_timer_countdown.html" title="TimerCountdown" alt="" coords="183,512,301,539"/>
+<area shape="rect" id="node13" href="$class_you_win.html" title="YouWin" alt="" coords="208,563,276,589"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlayerMovement.CreateDust" name="PlayerMovement.CreateDust">
+<area shape="rect" id="node2" href="$class_player_movement.html#a5682ea17be1f97cdad54f65f4dc7d648" title="PlayerMovement.Move" alt="" coords="241,5,393,32"/>
+<area shape="rect" id="node4" href="$class_player_movement.html#addc5f78eff185c73ab0a77cc04f13bd9" title="PlayerMovement.Jump" alt="" coords="240,56,393,83"/>
+<area shape="rect" id="node3" href="$class_player_movement.html#aaf9b77d7177d538be9c1447d08191322" title="PlayerMovement.Update" alt="" coords="441,31,604,57"/>
+</map>

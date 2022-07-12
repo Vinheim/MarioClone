@@ -1,0 +1,7 @@
+<map id="PlayerMovement.Update" name="PlayerMovement.Update">
+<area shape="rect" id="node2" href="$class_player_movement.html#a5682ea17be1f97cdad54f65f4dc7d648" title="PlayerMovement.Move" alt="" coords="241,5,393,32"/>
+<area shape="rect" id="node4" href="$class_player_movement.html#addc5f78eff185c73ab0a77cc04f13bd9" title="PlayerMovement.Jump" alt="" coords="240,56,393,83"/>
+<area shape="rect" id="node5" href="$class_player_movement.html#ac01f8491debd024af46111677f44263c" title="PlayerMovement.GroundCheck" alt="" coords="216,107,417,133"/>
+<area shape="rect" id="node6" href="$class_timer_countdown.html#ad97f3f5dab6fdb3650e37be7f7b03ea1" title="TimerCountdown.PauseTimer" alt="" coords="221,157,412,184"/>
+<area shape="rect" id="node3" href="$class_player_movement.html#abb328ccf69b4d9a1aa998a0970129676" title="PlayerMovement.CreateDust" alt="" coords="465,31,652,57"/>
+</map>

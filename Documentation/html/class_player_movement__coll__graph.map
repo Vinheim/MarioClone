@@ -1,0 +1,3 @@
+<map id="PlayerMovement" name="PlayerMovement">
+<area shape="rect" id="node3" href="$class_timer_countdown.html" title="{TimerCountdown\n|+ textDisplay\l+ secondsLeft\l+ takingAway\l&#45; isPaused\l|+ PauseTimer()\l&#45; Start()\l&#45; Update()\l&#45; TimerTake()\l}" alt="" coords="99,132,217,297"/>
+</map>

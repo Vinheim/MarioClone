@@ -1,0 +1,3 @@
+<map id="SwitchMusic" name="SwitchMusic">
+<area shape="rect" id="node3" href="$class_audio_manager.html" title="{AudioManager\n|+ BGM\l|+ ChangeMusic()\l}" alt="" coords="93,132,214,209"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ScoreManager.CheckScore" name="ScoreManager.CheckScore">
+<area shape="rect" id="node2" href="$class_player_death.html#a8efb6b19c537c8527613d31f1ccb15a0" title="PlayerDeath.SetLives" alt="" coords="235,5,381,32"/>
+<area shape="rect" id="node3" href="$class_player_death.html#a2108e4e9bf291c33c1511024ceae0717" title="PlayerDeath.GetLives" alt="" coords="235,56,381,83"/>
+</map>
